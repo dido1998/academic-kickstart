@@ -1,5 +1,5 @@
 +++
-title = "[2019/5] Our paper titled 'ARHNet - Leveraging Community Interaction for Detection of Religious Hate Speech in Arabic' got accepted into ACL-SRW 2019. </a>. " 
+title = "[2019/5] Our paper titled 'ARHNet - Leveraging Community Interaction for Detection of Religious Hate Speech in Arabic' got accepted into ACL-SRW 2019. " 
 subtitle = ""
 
 date = 2018-11-08T00:00:00
