@@ -52,8 +52,9 @@ date_format = "Jan 2006"
   date_start = "2019-05-12"
   date_end = "2019-07-12"
   description = """
-  * Working under the guidance of <a href = "http://faculty.iiitd.ac.in/~rajivratn/">Dr. Rajiv Ratn Shah</a>.
-  * Working on Social Media Analysis and Natural Language Processing. Paper accepted at ACL-SRW 2019.
+  * Worked on solving UI-related bugs such as collision bugs and pass-through bugs.
+  * Used deep learning approaches for semantic segmentation and depth estimation on the given frames from the game.
+  * The output of the final solution was a collision probability for each pixel in the frame. This algorithm was able to identify buggy frames with 85\% accuracy.
 
   """
 
@@ -63,7 +64,7 @@ date_format = "Jan 2006"
   company_url = "https://projectmanas.in/"
   location = "Manipal"
   date_start = "2018-02-01"
-  date_end = ""
+  date_end = "2019-02-01"
   description = """
   * Implemented, compared and analyzed the performance of various reinforcement learning algorithms (DQN, PPO, ACER, A3C) on environments provided by OpenAI gym.
   * Mentored 3 juniors for the task of designing an imitation learning algorithm for the udacity self-driving car simulator.
@@ -76,7 +77,7 @@ date_format = "Jan 2006"
   company_url = "https://rammer.ai/"
   location = "Pune"
   date_start = "2018-06-01"
-  date_end = ""
+  date_end = "2018-07-15"
   description = """
   * Wrote scripts to automate tasks related to training and testing deep learning models.
   * Implemented various deep learning architectures using tensorflow for the task of action-items detection in meeting transcripts.
