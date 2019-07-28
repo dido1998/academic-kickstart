@@ -47,10 +47,10 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Automation Intern"
   company = "Ubisoft"
-  company_url = ""
+  company_url = "https://www.ubisoft.com/en-US/studio/pune.aspx"
   location = "Pune"
   date_start = "2019-05-12"
-  date_end = ""
+  date_end = "2019-07-12"
   description = """
   * Worked on solving UI-related bugs such as collision bugs and pass-through bugs.
   * Used deep learning approaches for semantic segmentation and depth estimation on the given frames from the game.
