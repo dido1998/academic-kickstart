@@ -15,7 +15,7 @@ role: Undergraduate Student
 # Organizations/Affiliations
 organizations:
 - name: Manipal Institute of Technology
-  url: ""
+  url: "https://manipal.edu/mit.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include deep learning, natural language processing and reinforcement learning.
