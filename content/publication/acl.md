@@ -26,7 +26,7 @@ abstract = "The rapid widespread of social media has lead to some undesirable co
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "img/poster.png"
 
 # Is this a selected publication? (true/false)
 selected = true
