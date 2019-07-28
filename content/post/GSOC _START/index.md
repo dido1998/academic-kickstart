@@ -1,5 +1,5 @@
 +++
-title = "[2019/5] Got accepted into GSOC 2019. Will be working with the NumFocus orgainsation on the project <a href="https://summerofcode.withgoogle.com/projects/#4846902464479232">'Building Recurrent Neural Networks for ChainerX'</a>. " 
+title = "[2019/5] Our paper titled 'ARHNet - Leveraging Community Interaction for Detection of Religious Hate Speech in Arabic' got accepted into ACL-SRW 2019. </a>. " 
 subtitle = ""
 
 date = 2018-11-08T00:00:00
