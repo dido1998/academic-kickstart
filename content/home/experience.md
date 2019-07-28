@@ -47,7 +47,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Automation Intern"
   company = "Ubisoft"
-  company_url = "https://www.ubisoft.com/en-US/studio/pune.aspx"
+  company_url = "https://www.ubisoft.com/en-US/studio/pune.aspx/"
   location = "Remote"
   date_start = "2019-05-12"
   date_end = ""
