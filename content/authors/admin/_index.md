@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: adidolkar123@gmail.com
+  link: mailto:adidolkar123@gmail.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/dido_ani_1998
