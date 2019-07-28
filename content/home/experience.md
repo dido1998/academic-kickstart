@@ -45,6 +45,19 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
+  title = "Automation Intern"
+  company = "Ubisoft"
+  company_url = "https://www.ubisoft.com/en-US/studio/pune.aspx"
+  location = "Remote"
+  date_start = "2019-05-12"
+  date_end = "2019-07-12"
+  description = """
+  * Working under the guidance of <a href = "http://faculty.iiitd.ac.in/~rajivratn/">Dr. Rajiv Ratn Shah</a>.
+  * Working on Social Media Analysis and Natural Language Processing. Paper accepted at ACL-SRW 2019.
+
+  """
+
+[[experience]]
   title = "Undergraduate Researcher"
   company = "Project Manas"
   company_url = "https://projectmanas.in/"
