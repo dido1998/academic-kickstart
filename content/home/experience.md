@@ -54,7 +54,7 @@ date_format = "Jan 2006"
   description = """
   * Worked on solving UI-related bugs such as collision bugs and pass-through bugs.
   * Used deep learning approaches for semantic segmentation and depth estimation on the given frames from the game.
-  * The output of the final solution was a collision probability for each pixel in the frame. This algorithm was able to identify buggy frames with 85\% accuracy.
+  * The output of the final solution was a collision probability for each pixel in the frame. This algorithm was able to identify buggy frames with 85% accuracy.
 
   """
 
