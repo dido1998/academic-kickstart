@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Aniket Didolkar
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,27 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Manipal Institute of Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include deep learning, natural language processing and reinforcement learning.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning
+- Natural Language Processing
+- Deep Learning
+- Reinforcement Learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BTech in Computer Science and Engineering
+    institution: Manipal Institute of Technology
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,21 +39,18 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: adidolkar123@gmail.com
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/dido_ani_1998
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/dido1998
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +62,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a computer science student at Manipal Institute of Technology, India. I am currently in my 4th year. I am interested in deep learning and natural language processing. I am highly motivated to work on building natural language processing systems that understand the world better.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+ I love coding and contributing to open-source. I have written code for <a href="https://github.com/chainer/chainer">Chainer</a>, a deep learning library. In my free time, I like playing football and wacthing movies.
