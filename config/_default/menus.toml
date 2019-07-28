@@ -15,13 +15,13 @@
 
 [[main]]
   name = "Skills"
-  url = "#niket_skills"
-  weight = 20
+  url = "#aniket_skills"
+  weight = 30
 
 [[main]]
   name = "Experience"
   url = "#experience"
-  weight = 20
+  weight = 40
 
 
 [[main]]
