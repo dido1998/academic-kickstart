@@ -50,7 +50,7 @@ date_format = "Jan 2006"
   company_url = "https://www.ubisoft.com/en-US/studio/pune.aspx"
   location = "Remote"
   date_start = "2019-05-12"
-  date_end = "2019-07-12"
+  date_end = ""
   description = """
   * Worked on solving UI-related bugs such as collision bugs and pass-through bugs.
   * Used deep learning approaches for semantic segmentation and depth estimation on the given frames from the game.
