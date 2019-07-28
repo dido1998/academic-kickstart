@@ -45,20 +45,6 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Automation Intern"
-  company = "Ubisoft"
-  company_url = "https://www.ubisoft.com/en-US/studio/pune.aspx"
-  location = "Pune"
-  date_start = "2019-05-12"
-  date_end = ""
-  description = """
-  * Worked on solving UI-related bugs such as collision bugs and pass-through bugs.
-  * Used deep learning approaches for semantic segmentation and depth estimation on the given frames from the game.
-  * The output of the final solution was a collision probability for each pixel in the frame. This algorithm was able to identify buggy frames with 85\% accuracy.
-
-  """
-
-[[experience]]
   title = "Undergraduate Researcher"
   company = "Project Manas"
   company_url = "https://projectmanas.in/"
