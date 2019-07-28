@@ -31,6 +31,10 @@ education:
   - course: BTech in Computer Science and Engineering
     institution: Manipal Institute of Technology
     year: 2020
+  - course: High School
+    institution: Bishops Junior COllege
+    year: 2016
+  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
