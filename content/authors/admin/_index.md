@@ -48,7 +48,7 @@ social:
   link: https://github.com/dido1998  
 - icon: cv
   icon_pack: ai
-  link: https://drive.google.com/file/d/1UNOp0uEKMImagvoxrp2XN60KAekSLImC/view?usp=sharing
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
