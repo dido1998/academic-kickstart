@@ -45,12 +45,10 @@ social:
   link: https://twitter.com/dido_ani_1998
 - icon: github
   icon_pack: fab
-  link: https://github.com/dido1998
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
- - icon: cv
-   icon_pack: ai
-   link: https://drive.google.com/file/d/1UNOp0uEKMImagvoxrp2XN60KAekSLImC/view?usp=sharing
+  link: https://github.com/dido1998  
+- icon: cv
+  icon_pack: ai
+  link: https://drive.google.com/file/d/1UNOp0uEKMImagvoxrp2XN60KAekSLImC/view?usp=sharing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
