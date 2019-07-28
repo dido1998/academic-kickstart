@@ -63,3 +63,16 @@ user_groups:
 I am a computer science student at Manipal Institute of Technology, India. I am currently in my 4th year. I am interested in deep learning and natural language processing. I am highly motivated to work on building natural language processing systems that understand the world better.
 
  I love coding and contributing to open-source. I have written code for <a href="https://github.com/chainer/chainer">Chainer</a>, a deep learning library. In my free time, I like playing football and wacthing movies.
+ 
+ <item>
+      <title>News</title>
+      <link>https://nirbhayjm.github.io/home/news/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://nirbhayjm.github.io/home/news/</guid>
+      <description>[June, 2018] Our PyTorch code for VisDial-RL is now live!
+ [July, 2018] I will be interning at SRI International in the Center for Vision Technologies, working on stochastic video prediction for navigation.
+ [May, 2018] I served as a reviewer for ECCV 2018.
+ [June, 2017] Graduated from IIT Kanpur! I will be joining Georgia Tech starting Fall 2017 as a PhD student with Dhruv Batra.
+ [May, 2017] Paper on generative models for multi-label learning with Vikas Jain and Piyush Rai accepted at ICML, 2017.</description>
+</item>
