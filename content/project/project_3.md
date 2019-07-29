@@ -6,7 +6,7 @@ title = "Pruning Neural Networks"
 date = 2018-12-28T00:00:00
 
 # Project summary to display on homepage.
-summary = "Implemented weight pruning and unit pruning on simple fully-connected networks implemented in <a href = "https://www.tensorflow.org/" target = "_blank">tensorflow</a>"
+summary = "Implemented weight pruning and unit pruning on simple fully-connected networks implemented in tensorflow"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
