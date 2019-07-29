@@ -6,7 +6,7 @@ title = "Parallel implementation of t-sne"
 date = 2018-12-28T00:00:00
 
 # Project summary to display on homepage.
-summary = "Using CUDA for parallel implementation of <a href = "https://lvdmaaten.github.io/publications/papers/JMLR_2008.pdf" target = "_blank">t-sne</a>"
+summary = "Reproducing the paper H-detach: Modifying the LSTM gradient towards better optimization"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
