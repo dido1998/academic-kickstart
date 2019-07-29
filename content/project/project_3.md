@@ -1,16 +1,16 @@
 +++
 # Project title.
-title = "ICLR Reproducibility Challenge 2019"
+title = "Pruning Neural Networks"
 
 # Date this page was created.
 date = 2018-12-28T00:00:00
 
 # Project summary to display on homepage.
-summary = "Reproducing the paper H-detach: Modifying the LSTM gradient towards better optimization"
+summary = "Implemented weight pruning and unit pruning on simple fully-connected networks implemented in <a href = "https://www.tensorflow.org/" target = "_blank">tensorflow</a>"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["machine-learning", "recurrent-neural-networks", "deep-learning"]
+tags = ["machine-learning", "pruning"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -27,7 +27,7 @@ slides = ""
 url_pdf = ""
 url_slides = ""
 url_video = ""
-url_code = "https://github.com/dido1998/h-detach"
+url_code = "https://github.com/dido1998/pruning"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -45,6 +45,6 @@ url_code = "https://github.com/dido1998/h-detach"
 +++
 
 <ul>
-<li> Successfully reproduced the results of the paper: <a href = "https://openreview.net/pdf?id=ryf7ioRqFX" target = "_blank">H-detach: Modifying the LSTM gradient towards better optimization</a>. Was able to prove the claims mentioned in the paper. Wrote CUDA code for the proposed algorithm to speed up execution by 2x. Also wrote a reproducibility review for the paper on <a href = "https://openreview.net/forum?id=ryf7ioRqFX&noteId=ryf7ioRqFX" target = "_blank">openreview site</a>. </li>
-
+<li> Performed weight pruning and unit pruning on a simple fully-connected neural network. Showed that up to 90% of the weights can be pruned without a considerable drop in accuracy. Utilized the sparsity of the weights to speed up inference by up to 30%. </li>
 </ul>
+

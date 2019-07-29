@@ -1,16 +1,16 @@
 +++
 # Project title.
-title = "ICLR Reproducibility Challenge 2019"
+title = "CodeFlood"
 
 # Date this page was created.
 date = 2018-12-28T00:00:00
 
 # Project summary to display on homepage.
-summary = "Reproducing the paper H-detach: Modifying the LSTM gradient towards better optimization"
+summary = "Built a website for helping rescue operations during floods"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["machine-learning", "recurrent-neural-networks", "deep-learning"]
+tags = ["sentiment-analysis", "twitter-scraping"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -27,7 +27,7 @@ slides = ""
 url_pdf = ""
 url_slides = ""
 url_video = ""
-url_code = "https://github.com/dido1998/h-detach"
+url_code = "https://github.com/dido1998/codefundo-2018"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -45,6 +45,8 @@ url_code = "https://github.com/dido1998/h-detach"
 +++
 
 <ul>
-<li> Successfully reproduced the results of the paper: <a href = "https://openreview.net/pdf?id=ryf7ioRqFX" target = "_blank">H-detach: Modifying the LSTM gradient towards better optimization</a>. Was able to prove the claims mentioned in the paper. Wrote CUDA code for the proposed algorithm to speed up execution by 2x. Also wrote a reproducibility review for the paper on <a href = "https://openreview.net/forum?id=ryf7ioRqFX&noteId=ryf7ioRqFX" target = "_blank">openreview site</a>. </li>
-
+<li> Built a website to speed up relief operations during floods.</li>
+<li> My work was to extract tweets from Twitter and running sentiment analysis on the tweets to determine whether the user was in floods and then extracting the location of the tweet if he was in trouble.</li>
+<li> I also built a clustering algorithm that smartly assigns organizations running rescue operations to clusters of people to speed up the rescue.</li>
 </ul>
+
