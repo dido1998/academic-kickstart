@@ -35,6 +35,6 @@ summary = ""
 
 # Set captions for image gallery.
 
-+
++++
 I was interviewed by <a href = "https://medium.com/@ceceliashao">Cecelia Shao</a> about my experience in the <a href = "https://reproducibility-challenge.github.io/iclr_2019/">ICLR-Reproducibility Challenge 2019</a>. [<a href = "https://medium.com/@ceceliashao/iclr-reproducibility-interview-4-aniket-didolkar-6ba2f0868e1f">Link to the interview</a>].
 
