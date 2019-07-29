@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   date_start = "2019-04-01"
   date_end = ""
   description = """
-  * Working under the guidance of <a href = "http://faculty.iiitd.ac.in/~rajivratn/">Dr. Rajiv Ratn Shah</a>.
+  * Working under the guidance of <a href = "http://faculty.iiitd.ac.in/~rajivratn/" target="_blank">Dr. Rajiv Ratn Shah</a>.
   * Working on Social Media Analysis and Natural Language Processing. Paper accepted at ACL-SRW 2019.
 
   """
