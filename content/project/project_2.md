@@ -6,7 +6,7 @@ title = "Parallel implementation of t-sne"
 date = 2018-12-28T00:00:00
 
 # Project summary to display on homepage.
-summary = "Reproducing the paper H-detach: Modifying the LSTM gradient towards better optimization"
+summary = "CUDA implementation of t-sne."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

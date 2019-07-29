@@ -6,7 +6,7 @@ title = "AutoNLP"
 date = 2018-12-28T00:00:00
 
 # Project summary to display on homepage.
-summary = "Reproducing the paper H-detach: Modifying the LSTM gradient towards better optimization"
+summary = "Implementing some NLP tasks using tensorflow."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["natural-language-processing", "recurrent-neural-networks", "deep-learning"]`
