@@ -1,5 +1,5 @@
 +++
-title = "[2019/2] Two papers on load analytics to appear in 2019 IEEE PES General Meeting"
+title = "My interview for the ICLR-Reproducibility challenge 2019"
 subtitle = ""
 
 date = 2018-11-08T00:00:00
@@ -35,6 +35,6 @@ summary = ""
 
 # Set captions for image gallery.
 
-+++
-Our papers "Submodular Load Clustering with Robust Principal Component Analysis" and "A Stacked Autoencoder Application for Residential Load Curve Forecast and Peak Shaving" to appear in 2019 PES General Meeting, Atalanta, GA.
++
+I was interviewed by <a href = "https://medium.com/@ceceliashao">Cecelia Shao</a> about my experience in the <a href = "https://reproducibility-challenge.github.io/iclr_2019/">ICLR-Reproducibility Challenge 2019</a>. [<a href = "https://medium.com/@ceceliashao/iclr-reproducibility-interview-4-aniket-didolkar-6ba2f0868e1f">Link to the interview</a>].
 
