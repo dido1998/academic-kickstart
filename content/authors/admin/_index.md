@@ -69,4 +69,4 @@ user_groups:
 
 I am a computer science student at Manipal Institute of Technology, India. I am currently in my 4th year. I am interested in deep learning and natural language processing. I am highly motivated to work on building natural language processing systems that understand the world better.
 
- I love coding and contributing to open-source. I have written code for <a href="https://github.com/chainer/chainer" target="_blank">Chainer</a>, a deep learning library. In my free time, I like playing football and watching movies.
+ I love coding and contributing to open-source. I have written code for <a href="https://github.com/chainer/chainer" target="_blank">Chainer</a>, a deep learning library. I have built all the Recurrent Neural Network support that <a href = "https://docs.chainer.org/en/stable/chainerx/tutorial/" target = "_blank">ChainerX</a> has. In my free time, I like playing football and watching movies.
