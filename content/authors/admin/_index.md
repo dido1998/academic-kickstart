@@ -68,6 +68,6 @@ user_groups:
 - Visitors
 ---
 
-I am a computer science student at Manipal Institute of Technology, India. I am currently in my 4th year. I am interested in deep learning research. I have had wide variety of experience in deep learning. I have worked on projects in the domain of computer vision, natural language processing and reinforcement learning.
+I am a computer science student at Manipal Institute of Technology, India. I am currently in my 4th year. I am interested in deep learning research. I have had a wide variety of experience in deep learning. I have worked on projects in the domain of computer vision, natural language processing and reinforcement learning.
 
  I love coding and contributing to open-source. I have written code for <a href="https://github.com/chainer/chainer" target="_blank">Chainer</a>, a deep learning library. I have built all the Recurrent Neural Network support that <a href = "https://docs.chainer.org/en/stable/chainerx/tutorial/" target = "_blank">ChainerX</a> has. In my free time, I like playing football and watching movies.
