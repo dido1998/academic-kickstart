@@ -36,5 +36,5 @@ summary = ""
 # Set captions for image gallery.
 
 +++
-This post gives a detailed explaination of the final work-product that I built for GSoC 2019. The post can be found here <a href = "https://medium.com/@adidolkar123/gsoc-2019-summary-building-rnns-for-chainerx-cbe0bcfa13ab">[post]</a>.
+This post gives a detailed explaination of the final work-product that I built for GSoC 2019. The post can be found  <a href = "https://medium.com/@adidolkar123/gsoc-2019-summary-building-rnns-for-chainerx-cbe0bcfa13ab">here</a>.
 
