@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://summerofcode.withgoogle.com/projects/#4846902464479232"
   location = "Remote"
   date_start = "2019-05-06"
-  date_end = ""
+  date_end = "2019-08-26"
   description = """
   
   
