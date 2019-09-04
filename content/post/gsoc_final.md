@@ -38,5 +38,4 @@ summary = ""
 +++
 This post gives a detailed explaination of the final work-product that I built for GSoC 2019. The post can be found  <a href = "https://medium.com/@adidolkar123/gsoc-2019-summary-building-rnns-for-chainerx-cbe0bcfa13ab">here</a>.
 
-![Evaluation](https://github.com/dido1998/academic-kickstart/blob/master/static/img/gsoc.png)
-
+<img src="https://raw.githubusercontent.com/dido1998/academic-kickstart/master/static/img/gsoc.png" alt="https://raw.githubusercontent.com/dido1998/academic-kickstart/master/static/img/gsoc.png">
