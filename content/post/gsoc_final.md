@@ -31,7 +31,7 @@ summary = ""
   focal_point = ""
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only = true
 
 # Set captions for image gallery.
 
