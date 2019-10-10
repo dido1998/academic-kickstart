@@ -22,21 +22,22 @@ summary = ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-#[image]
+[image]
   # Caption (optional)
-  caption = ""
+  caption = "dsadks"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only = true
 
 # Set captions for image gallery.
 
 +++
 This post gives a detailed explaination of the final work-product that I built for GSoC 2019. The post can be found  <a href = "https://medium.com/@adidolkar123/gsoc-2019-summary-building-rnns-for-chainerx-cbe0bcfa13ab">here</a>.
 
-<img src="https://github.com/dido1998/academic-kickstart/blob/master/static/files/gsoc.png">
+Here is the final evaluation given by my mentor:
 
+<img src="https://raw.githubusercontent.com/dido1998/academic-kickstart/master/static/img/gsoc(1).png" alt="https://raw.githubusercontent.com/dido1998/academic-kickstart/master/static/img/gsoc(1).png">
