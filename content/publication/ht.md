@@ -1,5 +1,5 @@
 +++
-title = "ARHNet - Leveraging Community Interaction for Detection of Religious Hate Speech in Arabic"
+title = "Beyond Hostile Linguistic Cues: The Gravity of Online Milieu for Hate Speech Detection in Arabic"
 #date = 2017-06-15T00:00:00
 draft = false
 
@@ -18,11 +18,11 @@ authors = ["**Aniket Didolkar**", "Arijit Ghosh Chowdhury", "Ramit Sawhney", "Ra
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication =  "In *Proceedings of the 57th Conference of the Association for Computational Linguistics: Student Research Workshop*"
+publication =  "In *Proceedings of the 30th ACM Conference on Hypertext and Social Media*"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "The rapid widespread of social media has lead to some undesirable consequences like the rapid increase of hateful content and offensive language. Religious Hate Speech, in particular, often leads to unrest and sometimes aggravates to violence against people on the basis of their religious affiliations. The richness of the Arabic morphology and the limited available resources makes this task especially challenging. The current state-of-the-art approaches to detect hate speech in Arabic rely entirely on textual (lexical and semantic) cues. Our proposed methodology contends that leveraging Community-Interaction can better help us profile hate speech content on social media. Our proposed ARHNet (Arabic Religious Hate Speech Net) model incorporates both Arabic Word Embeddings and Social Network Graphs for the detection of religious hate speech."
+abstract = "Religious Hate speech poses grave dangers for the cohesion of a democratic society, the protection of human rights and the rule of law. While previous work has shown that linguistic features can be effectively used for text categorization in Arabic, employing information coming from userssocial networks has not yet been explored for such complex user characteristics. Systems relying on language information tend to have low precision because they tend to rely on messages containing particular terms indicating hate speech. In this paper, we study the novel problem of exploiting social context for detection of religious hate speech in Arabic tweets, given information extracted from their online milieu by learning a low-dimensional vector representation of users."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -44,7 +44,7 @@ projects = []
 # tags_weight = 22
 
 # Links (optional).
-url_pdf = "https://www.aclweb.org/anthology/P19-2038"
+url_pdf = "https://dl.acm.org/citation.cfm?id=3342220.3344930"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
