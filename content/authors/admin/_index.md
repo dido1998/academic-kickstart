@@ -71,3 +71,5 @@ user_groups:
 I am a computer science student at Manipal Institute of Technology, India. I am currently in my 4th year. I am interested in deep learning research. I have had a wide variety of experience in deep learning. I have worked on projects in the domain of computer vision, natural language processing and reinforcement learning.
 
  I love coding and contributing to open-source. As a part of my GSoC project, I built all the Recurrent Neural Network support that <a href = "https://docs.chainer.org/en/stable/chainerx/tutorial/" target = "_blank">ChainerX</a> has. In my free time, I like playing football and watching movies. 
+
+ You can reach out to me at - +91 8411814791/9113293771
