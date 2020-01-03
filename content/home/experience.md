@@ -18,6 +18,19 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Research Intern"
+  company = "IISC Bangalore"
+  company_url = "https://www.iisc.ac.in/"
+  location = "Bangalore"
+  date_start = "2020-01-06"
+  date_end = ""
+  description = """
+  
+  
+  * Working with <a href = "https://ece.iisc.ac.in/~aditya/index.html" target="_blank">Dr. Aditya Gopalan</a> on using machine learning for Air Quality Prediction.
+  """
+
+[[experience]]
   title = "Google Summer of Code Student"
   company = "NumFocus"
   company_url = "https://summerofcode.withgoogle.com/projects/#4846902464479232"
