@@ -68,7 +68,7 @@ user_groups:
 - Visitors
 ---
 
-I am a final year computer science student at Manipal Institute of Technology, Manipal, India. I am primarily interested in deep learning and its applications to various domains such as natural language, computer vision, etc. I have done numerous internships focused on using deep learning and machine learning to solve various problems which have allowed me to build a strong understanding on this field. 
+I am a final year computer science student at Manipal Institute of Technology, Manipal, India. I am primarily interested in deep learning and its applications to various domains such as natural language, computer vision, etc. I have done numerous internships focused on using deep learning and machine learning to solve various problems which have allowed me to build a strong understanding in this field. 
 
 I have published papers at venues such as ACL-SRW (Student Research Workshop) and ACM-HyperText. I am also an open-source enthusiast and I have built all the recurrent neural network support that ChainerX has as a part of my Google Summer of Code project.
 
