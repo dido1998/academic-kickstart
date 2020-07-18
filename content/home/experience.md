@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Bangalore"
   date_start = "2020-01-06"
   date_end = ""
-  image_url = "https://images.unsplash.com/photo-1595026677025-0eff2b5b3a16?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
+  image_url = "https://www.iisc.ac.in/wp-content/uploads/2020/04/IISc_Logo-new-1-300x212.png"
   description = """
   
   
@@ -38,6 +38,7 @@ date_format = "Jan 2006"
   location = "Remote"
   date_start = "2019-05-06"
   date_end = "2019-08-26"
+  image_url = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/GSoC_logo.svg/1200px-GSoC_logo.svg.png"
   description = """
   
   
@@ -52,6 +53,7 @@ date_format = "Jan 2006"
   location = "Remote"
   date_start = "2019-04-01"
   date_end = ""
+  image_url = "https://pbs.twimg.com/media/D-tieeVUYAAsRfU.jpg"
   description = """
   * Working under the guidance of <a href = "http://faculty.iiitd.ac.in/~rajivratn/" target="_blank">Dr. Rajiv Ratn Shah</a>.
   * Working on Social Media Analysis and Natural Language Processing. Paper accepted at ACL-SRW 2019.
@@ -65,6 +67,7 @@ date_format = "Jan 2006"
   location = "Pune"
   date_start = "2019-05-12"
   date_end = "2019-07-12"
+  image_url = "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Ubisoft_2017.svg/1200px-Ubisoft_2017.svg.png"
   description = """
   * Worked on solving UI-related bugs such as collision bugs and pass-through bugs.
   * Used deep learning approaches for semantic segmentation and depth estimation on the given frames from the game.
@@ -79,6 +82,7 @@ date_format = "Jan 2006"
   location = "Manipal"
   date_start = "2018-02-01"
   date_end = "2019-02-01"
+  image_url = "https://projectmanas.in/static/images/png/manas-logo-gradient.png"
   description = """
   * Implemented, compared and analyzed the performance of various reinforcement learning algorithms (DQN, PPO, ACER, A3C) on environments provided by OpenAI gym.
   * Mentored 3 juniors for the task of designing an imitation learning algorithm for the udacity self-driving car simulator.
@@ -87,11 +91,12 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Data Science Intern"
-  company = "Rammer.ai"
-  company_url = "https://rammer.ai/"
+  company = "Symbl.ai"
+  company_url = "https://symbl.ai/"
   location = "Pune"
   date_start = "2018-06-01"
   date_end = "2018-07-15"
+  image_url = "https://symbl.ai/wp-content/uploads/2020/03/Symbl-logo.png"
   description = """
   * Wrote scripts to automate tasks related to training and testing deep learning models.
   * Implemented various deep learning architectures using tensorflow for the task of action-items detection in meeting transcripts.
