@@ -30,16 +30,14 @@
       </div>
       <!-- Content -->
       <div class="col py-2">
-        <div class = "card">
-          <div class="col-md-4">
-              {{ with .image_url}}
-              <img src="{{ . }}" class="card-img" alt="...">
-              {{ end }}
-            </div>
-        </div>
 
         <div class="card">
           <div class="row no-gutters">
+            <div class="col-md-4">
+              {{ with .image_url }}
+              <img src="{{ . }}" class="card-img" alt="...">
+              {{ end }}
+            </div>
             <div class="col-md-8">
               <div class="card-body">
                 <h4 class="card-title exp-title text-muted mt-0 mb-1">{{.title | markdownify | emojify}}</h4>
