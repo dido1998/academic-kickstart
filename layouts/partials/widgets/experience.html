@@ -34,9 +34,9 @@
         <div class="card">
           <div class="row no-gutters">
             {{ if .image_url }}
-              <div class="col-md-4">
+              <div class="col-md-4" style="display:flex; flex-direction:column; justify-content: center;">
                 {{ with .image_url }}
-                <img src="{{ . }}" class="card-img" alt="...">
+                <img src="{{ . }}" class="card-img" style="padding: 20px" alt="...">
                 {{ end }}
               </div>
               <div class="col-md-8">
