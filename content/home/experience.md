@@ -24,6 +24,7 @@ date_format = "Jan 2006"
   location = "Bangalore"
   date_start = "2020-01-06"
   date_end = ""
+  image_url = "https://images.unsplash.com/photo-1595026677025-0eff2b5b3a16?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
   description = """
   
   
