@@ -33,12 +33,35 @@
 
         <div class="card">
           <div class="row no-gutters">
-            <div class="col-md-4">
-              {{ with .image_url }}
-              <img src="{{ . }}" class="card-img" alt="...">
-              {{ end }}
-            </div>
-            <div class="col-md-8">
+            {{ if .image_url }}
+              <div class="col-md-4" style="display:flex; flex-direction:column; justify-content: center;">
+                {{ with .image_url }}
+                <img src="{{ . }}" class="card-img" style="padding: 20px" alt="...">
+                {{ end }}
+              </div>
+              <div class="col-md-8">
+                <div class="card-body">
+                  <h4 class="card-title exp-title text-muted mt-0 mb-1">{{.title | markdownify | emojify}}</h4>
+                  <h4 class="card-title exp-company text-muted my-0">
+                    {{- with .company_url}}<a href="{{.}}" target="_blank"
+                      rel="noopener">{{end}}{{.company | markdownify | emojify}}{{with .company_url}}</a>{{end -}}
+                  </h4>
+                  <div class="text-muted exp-meta">
+                    {{ (time .date_start).Format ($page.Params.date_format | default "January 2006") }} –
+                    {{ if .date_end}}
+                    {{ (time .date_end).Format ($page.Params.date_format | default "January 2006") }}
+                    {{else}}
+                    {{ i18n "present" | default "Present" }}
+                    {{end}}
+                    {{with .location}}
+                    <span class="middot-divider"></span>
+                    <span>{{.}}</span>
+                    {{end}}
+                  </div>
+                  {{with .description}}<div class="card-text">{{. | markdownify | emojify}}</div>{{end}}
+                </div>
+              </div>
+            {{ else }}
               <div class="card-body">
                 <h4 class="card-title exp-title text-muted mt-0 mb-1">{{.title | markdownify | emojify}}</h4>
                 <h4 class="card-title exp-company text-muted my-0">
@@ -59,7 +82,7 @@
                 </div>
                 {{with .description}}<div class="card-text">{{. | markdownify | emojify}}</div>{{end}}
               </div>
-            </div>
+            {{ end }}
           </div>
         </div>
       </div>
