@@ -25,11 +25,6 @@ date_format = "Jan 2006"
   date_start = "2020-01-06"
   date_end = ""
   image_url = "https://www.iisc.ac.in/wp-content/uploads/2020/04/IISc_Logo-new-1-300x212.png"
-  description = """
-  
-  
-  * Working with <a href = "https://ece.iisc.ac.in/~aditya/index.html" target="_blank">Dr. Aditya Gopalan</a> on using machine learning for Air Quality Prediction.
-  """
 
 [[experience]]
   title = "Google Summer of Code Student"
@@ -39,13 +34,7 @@ date_format = "Jan 2006"
   date_start = "2019-05-06"
   date_end = "2019-08-26"
   image_url = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/GSoC_logo.svg/1200px-GSoC_logo.svg.png"
-  description = """
   
-  
-  * Working for Chainer which comes under the NumFocus umbrella.
-  * Building recurrent neural network support for ChainerX. ChainerX is a deep learning library built completely using C++.
-  * Implemented the CPU and GPU versions of LSTM, GRU, Vanilla RNN etc. The GPU versions were built using the CUDNN library provided by NVIDIA.
-  """
 [[experience]]
   title = "Research Intern"
   company = "MIDAS Lab, IIIT Delhi"
@@ -54,11 +43,6 @@ date_format = "Jan 2006"
   date_start = "2019-04-01"
   date_end = ""
   image_url = "https://pbs.twimg.com/media/D-tieeVUYAAsRfU.jpg"
-  description = """
-  * Working under the guidance of <a href = "http://faculty.iiitd.ac.in/~rajivratn/" target="_blank">Dr. Rajiv Ratn Shah</a>.
-  * Working on Social Media Analysis and Natural Language Processing. Paper accepted at ACL-SRW 2019.
-
-  """
 
 [[experience]]
   title = "Automation Intern"
@@ -68,12 +52,6 @@ date_format = "Jan 2006"
   date_start = "2019-05-12"
   date_end = "2019-07-12"
   image_url = "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Ubisoft_2017.svg/1200px-Ubisoft_2017.svg.png"
-  description = """
-  * Worked on solving UI-related bugs such as collision bugs and pass-through bugs.
-  * Used deep learning approaches for semantic segmentation and depth estimation on the given frames from the game.
-  * The output of the final solution was a collision probability for each pixel in the frame. This algorithm was able to identify buggy frames with 85% accuracy.
-
-  """
 
 [[experience]]
   title = "Undergraduate Researcher"
@@ -83,11 +61,6 @@ date_format = "Jan 2006"
   date_start = "2018-02-01"
   date_end = "2019-02-01"
   image_url = "https://projectmanas.in/static/images/png/manas-logo-gradient.png"
-  description = """
-  * Implemented, compared and analyzed the performance of various reinforcement learning algorithms (DQN, PPO, ACER, A3C) on environments provided by OpenAI gym.
-  * Mentored 3 juniors for the task of designing an imitation learning algorithm for the udacity self-driving car simulator.
-
-  """
 
 [[experience]]
   title = "Data Science Intern"
@@ -97,11 +70,7 @@ date_format = "Jan 2006"
   date_start = "2018-06-01"
   date_end = "2018-07-15"
   image_url = "https://symbl.ai/wp-content/uploads/2020/03/Symbl-logo.png"
-  description = """
-  * Wrote scripts to automate tasks related to training and testing deep learning models.
-  * Implemented various deep learning architectures using tensorflow for the task of action-items detection in meeting transcripts.
-
-  """
+  
 
 
 +++
