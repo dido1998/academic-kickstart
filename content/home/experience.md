@@ -17,13 +17,24 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Research Intern"
+  company = "MILA Montreal"
+  company_url = "https://www.mila.quebec/"
+  location = "Remote"
+  date_start = "2020-08-01"
+  date_end = ""
+  image_url = "https://taolicheng.github.io/ATLAS-anomaly-detection/assets/Mila_logo_black.png"
+
+
 [[experience]]
   title = "Research Intern"
   company = "IISC Bangalore"
   company_url = "https://www.iisc.ac.in/"
   location = "Bangalore"
   date_start = "2020-01-06"
-  date_end = ""
+  date_end = "2020-07-06"
   image_url = "https://www.iisc.ac.in/wp-content/uploads/2020/04/IISc_Logo-new-1-300x212.png"
 
 [[experience]]
