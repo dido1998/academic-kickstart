@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate Student
+role: Research Intern
 
 # Organizations/Affiliations
 organizations:
-- name: Manipal Institute of Technology
-  url: "https://manipal.edu/mit.html"
+- name: MILA, Montreal
+  url: "https://mila.quebec"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include deep learning, natural language processing and reinforcement learning.
