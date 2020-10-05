@@ -4,7 +4,7 @@ title = "Augmenting NLP models using Latent Feature Interpolations "
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Amit Jindal", **Aniket Didolkar**", "Arijit Ghosh Chowdhury", "Ramit Sawhney", "Rajiv Ratn Shah", "Di Jin"]
+authors = ["Amit Jindal", "**Aniket Didolkar**", "Arijit Ghosh Chowdhury", "Ramit Sawhney", "Rajiv Ratn Shah", "Di Jin"]
 
 # Publication type.
 # Legend:

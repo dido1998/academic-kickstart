@@ -4,7 +4,7 @@ title = "SpeechMix - Augmenting Deep Sound Recognition using Hidden Space Interp
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Amit Jindal", "Narayanan Elavathur, Ranganatha", **Aniket Didolkar**", "Arijit Ghosh Chowdhury", "Ramit Sawhney", "Rajiv Ratn Shah", "Di Jin"]
+authors = ["Amit Jindal", "Narayanan Elavathur, Ranganatha", "**Aniket Didolkar**", "Arijit Ghosh Chowdhury", "Ramit Sawhney", "Rajiv Ratn Shah", "Di Jin"]
 
 # Publication type.
 # Legend:
