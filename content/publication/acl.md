@@ -1,6 +1,6 @@
 +++
 title = "ARHNet - Leveraging Community Interaction for Detection of Religious Hate Speech in Arabic"
-#date = 2017-06-15T00:00:00
+date = 2019-08-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
