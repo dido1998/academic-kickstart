@@ -51,7 +51,7 @@ date_format = "Jan 2006"
   company = "MIDAS Lab, IIIT Delhi"
   company_url = "http://midas.iiitd.edu.in/"
   location = "Remote"
-  date_start = "2019-04-01"
+  date_start = "2020-08-01"
   date_end = ""
   image_url = "https://pbs.twimg.com/media/D-tieeVUYAAsRfU.jpg"
 
