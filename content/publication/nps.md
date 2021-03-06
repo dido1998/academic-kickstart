@@ -4,7 +4,7 @@ date = 2021-03-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Aniket Didolkar\***", "Anirudh Goyal\*", "Nan Rosemary Ke", "Charles Blundell", "Philippe Beaudoin", "Nicolas Heess", "Michael Mozer", "Yoshua Bengio"]
+authors = ["**Aniket Didolkar**", "Anirudh Goyal", "Nan Rosemary Ke", "Charles Blundell", "Philippe Beaudoin", "Nicolas Heess", "Michael Mozer", "Yoshua Bengio"]
 
 # Publication type.
 # Legend:
