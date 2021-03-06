@@ -21,21 +21,13 @@ organizations:
 bio: My research interests include deep learning, natural language processing and reinforcement learning.
 
 interests:
-- Machine Learning
-- Natural Language Processing
 - Deep Learning
-- Reinforcement Learning
-- Computer Vision
 
 education:
   courses:
   - course: BTech in Computer Science and Engineering
     institution: Manipal Institute of Technology
     year: 2020
-  - course: High School
-    institution: Bishops Junior College
-    year: 2016
-  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -50,7 +42,7 @@ social:
   link: mailto:adidolkar123@gmail.com
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/dido_ani_1998
+  link: https://twitter.com/Aniket_d98
 - icon: github
   icon_pack: fab
   link: https://github.com/dido1998  
