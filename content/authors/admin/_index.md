@@ -20,14 +20,14 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include deep learning, natural language processing and reinforcement learning.
 
-interests:
-- Deep Learning
+#interests:
+#- Deep Learning
 
-education:
-  courses:
-  - course: BTech in Computer Science and Engineering
-    institution: Manipal Institute of Technology
-    year: 2020
+#education:
+#  courses:
+#  - course: BTech in Computer Science and Engineering
+#    institution: Manipal Institute of Technology
+#    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -46,7 +46,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/dido1998  
-
+- icon: fa-linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/aniket-didolkar-7a9b8912a/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -64,6 +66,6 @@ I work as a research intern at <a href ="https://mila.quebec/"> MILA, Montreal <
 I recieved my bachelors degree in computer science from <a href="https://manipal.edu/mit.html"> Manipal Institute of Technology, India </a>. During my bachelors, I worked as a researcer at <a href="http://midas.iiitd.edu.in/"> MIDAS Lab</a> at IIIT Delhi, where I worked on several research problems in NLP under <a  href="https://www.iiitd.ac.in/rajivratn">Professor Rajiv Ratn Shah </a>. In my final semester, I conducted research in air-quality monitoring and predicton at <a href="https://www.iisc.ac.in/">IISc Bangalore</a> under <a href="https://ece.iisc.ac.in/~aditya/"> Prof. Aditya Gopalan </a> and <a href = "https://ece.iisc.ac.in/~htyagi/"> Prof. Himanshu Tyagi</a>.
 
 
-I have also spent time doing industrial internships at <a href="https://www.ubisoft.com/en-us/"> Ubisoft </a> and <a href = "https://symbl.ai/">Symbl.ai</a>. I am passionate about open-source and spent the summer of 2019 building <a href="https://docs.chainer.org/en/stable/chainerx/">ChainerX</a>-an open source deep learning library as a part of <a  href="https://summerofcode.withgoogle.com/"> Google Summer of Code</a>.
+I have also spent time doing industrial internships at <a href="https://www.ubisoft.com/en-us/"> Ubisoft </a> and <a href = "https://symbl.ai/">Symbl.ai</a>. I am passionate about open-source and spent the summer of 2019 building <a href="https://docs.chainer.org/en/stable/chainerx/">ChainerX</a>--an open source deep learning library--as a part of <a  href="https://summerofcode.withgoogle.com/"> Google Summer of Code</a>.
 
 
