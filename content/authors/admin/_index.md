@@ -66,8 +66,12 @@ user_groups:
 - Visitors
 ---
 
-Hello! :-). I am currently working as a research intern at <a href="https://mila.quebec" target="_blank">MILA, Montreal</a> under the guidance of <a href="https://anirudh9119.github.io/" target="_blank">Anirudh Goyal</a>. Previously, I have had the privilege of working at numerous amazing places such as <a href="https://iisc.ac.in" target ="_blank">IISc Bangalore</a>(with  <a href="https://ece.iisc.ac.in/~aditya/" target="_blank">Prof Aditya Gopalan</a> and <a href="https://ece.iisc.ac.in/~htyagi/" target="_bank">Prof Himanshu Tyagi</a>),  <a href="http://midas.iiitd.edu.in/" target="_blank">MIDAS IIITD</a> (with <a href="https://www.iiitd.edu.in/~rajivratn/" target="_blank">Prof Rajiv Ratn Shah</a>), <a href="https://www.ubisoft.com/en-us/" target="_blank">Ubisoft</a>, and <a href="https://symbl.ai/" target="_blank">Symbl.ai</a>. I have also been fortunate to have been selected for <a href = "https://summerofcode.withgoogle.com/" target="_blank">Google Summer of Code 2019</a> where I worked with the awesome creators of <a href = "https://chainer.org/" target = "_blank">Chainer</a> to build recurrent neural architectures for ChainerX!
+I work as a research intern at <a href ="https://mila.quebec/"> MILA, Montreal </a> under <a href="https://anirudh9119.github.io/">Anirudh Goyal</a> and <a href="https://yoshuabengio.org/"> Prof. Yoshua Bengio</a>. 
 
-I am most generally interested in the deep learning approach to AI. I have had the opportunity to work in various subdomains in AI. I have published papers at ACL-SRW 2019 and ACM-HyperText 2019 in the domain of NLP. Most recently I have a paper accepted at Interspeech 2020 in the domain of speech recognition. At MILA, I am currently working on topics such as modularity in deep neural nets and causal inference.
+
+I recieved my bachelors degree in computer science from <a href="https://manipal.edu/mit.html"> Manipal Institute of Technology, India </a>. During my bachelors, I worked as a researcer at <a href="http://midas.iiitd.edu.in/"> MIDAS Lab</a> at IIIT Delhi, where I worked on several research problems in NLP under <a  href="https://www.iiitd.ac.in/rajivratn">Professor Rajiv Ratn Shah </a>. In my final semester, I conducted research in air-quality monitoring and predicton at <a href="https://www.iisc.ac.in/">IISc Bangalore</a> under <a href="https://ece.iisc.ac.in/~aditya/"> Prof. Aditya Gopalan </a> and <a href = "https://ece.iisc.ac.in/~htyagi/"> Prof. Himanshu Tyagi</a>.
+
+
+I have also spent time doing industrial internships at <a href="https://www.ubisoft.com/en-us/"> Ubisoft </a> and <a href = "https://symbl.ai/">Symbl.ai</a>. I am passionate about open-source and spent the summer of 2019 building <a href="https://docs.chainer.org/en/stable/chainerx/">ChainerX</a>-an open source deep learning library as a part of <a  href="https://summerofcode.withgoogle.com/"> Google Summer of Code</a>.
 
 
