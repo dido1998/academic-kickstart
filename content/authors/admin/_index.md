@@ -39,7 +39,7 @@ social:
   link: https://scholar.google.com/citations?user=ekvl5o0AAAAJ&hl=en
 - icon: envelope
   icon_pack: fas
-  link: mailto:adidolkar123@gmail.com
+  link: mailto:aniket.didolkar@mila.quebec
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Aniket_d98
