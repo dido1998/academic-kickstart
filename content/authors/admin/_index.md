@@ -60,7 +60,7 @@ user_groups:
 - Visitors
 ---
 
-I work as a research intern at <a href ="https://mila.quebec/"> MILA, Montreal </a> under <a href="https://anirudh9119.github.io/">Anirudh Goyal</a> and <a href="https://yoshuabengio.org/"> Prof. Yoshua Bengio</a>. 
+Hello! I am a masters student at <a href ="https://mila.quebec/"> MILA, Montreal </a> and <a href = "https://www.umontreal.ca/">University of Montreal</a> supervised by <a href="https://yoshuabengio.org/"> Prof. Yoshua Bengio</a> and <a href = "https://home.cs.colorado.edu/~mozer/index.php">Prof. Michael Mozer </a>. I also work closely with <a href="https://anirudh9119.github.io/">Anirudh Goyal</a>. Previously, I worked as a research intern at <a href ="https://mila.quebec/"> MILA, Montreal </a> under <a href="https://anirudh9119.github.io/">Anirudh Goyal</a> and <a href="https://yoshuabengio.org/"> Prof. Yoshua Bengio</a>. 
 
 
 I received my bachelors degree in computer science from <a href="https://manipal.edu/mit.html"> Manipal Institute of Technology, India </a>. During my bachelors, I worked as a researcer at <a href="http://midas.iiitd.edu.in/"> MIDAS Lab</a> at IIIT Delhi, where I worked on several research problems in NLP under <a  href="https://www.iiitd.ac.in/rajivratn">Prof. Rajiv Ratn Shah</a>. In my final semester, I conducted research in air-quality monitoring and prediction at <a href="https://www.iisc.ac.in/">IISc Bangalore</a> under <a href="https://ece.iisc.ac.in/~aditya/"> Prof. Aditya Gopalan </a> and <a href = "https://ece.iisc.ac.in/~htyagi/"> Prof. Himanshu Tyagi</a>.
