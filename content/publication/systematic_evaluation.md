@@ -19,7 +19,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication =  "Neurips Dataset and Benchmark Track 2021"
-publication_short = ""
+publication_short = "Neurips Dataset and Benchmark Track 2021"
 
 # Abstract and optional shortened version.
 abstract = ""
