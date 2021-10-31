@@ -1,5 +1,5 @@
 +++
-title = "Neural Production Systems [+ Neurips 2021]"
+title = "Neural Production Systems [Neurips 2021]"
 date = 2021-03-01T00:00:00
 draft = false
 
