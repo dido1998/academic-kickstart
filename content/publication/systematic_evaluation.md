@@ -1,6 +1,5 @@
 +++
-title = "Systematic Evaluation of Causal Discovery in Visual Model Based Reinforcement Learning
-"
+title = "Systematic Evaluation of Causal Discovery in Visual Model Based Reinforcement Learning"
 date = 2021-06-01T00:00:00
 draft = false
 
