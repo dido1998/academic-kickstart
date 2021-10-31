@@ -1,10 +1,11 @@
 +++
-title = "Neural Production Systems"
-date = 2021-03-01T00:00:00
+title = "Systematic Evaluation of Causal Discovery in Visual Model Based Reinforcement Learning
+"
+date = 2021-06-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Aniket Didolkar**", "Anirudh Goyal", "Nan Rosemary Ke", "Charles Blundell", "Philippe Beaudoin", "Nicolas Heess", "Michael Mozer", "Yoshua Bengio"]
+authors = ["Nan Rosemary Ke", "**Aniket Didolkar**", "Sarthak Mittal", "Anirudh Goyal", "Guillaume Lajoie", "Stefan Bauer", "Danilo Rezende", "Yoshua Bengio", "Michael Mozer",  "Christopher Pal"]
 
 # Publication type.
 # Legend:
@@ -18,7 +19,7 @@ authors = ["**Aniket Didolkar**", "Anirudh Goyal", "Nan Rosemary Ke", "Charles B
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication =  "Neurips 2021"
+publication =  "Neurips Dataset and Benchmark Track 2021"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -76,4 +77,5 @@ image = ""
 caption = ""
 
 +++
+
 
