@@ -40,8 +40,8 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-# tags = ["EASE", "2017"]
-# tags_weight = 22
+tags = ["Neurips Dataset and Benchmark Track", "2021"]
+tags_weight = 22
 
 # Links (optional).
 url_pdf = ""
